@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEaWWLSBUwcCNCFwMm6jYSErZ7mnhTmyKxsfcqTjpAx1b4i5exziBsyktaxcv4XWVzOaqqABM9RtAC2rbdof/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omen\\source\\repos\\VOCABFINAL\\VOCABFINAL\\VOCABFINAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Omen\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

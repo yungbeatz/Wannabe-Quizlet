@@ -1,0 +1,17 @@
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\bin\Debug\net5.0\VOCABFINAL.exe
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\bin\Debug\net5.0\VOCABFINAL.deps.json
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\bin\Debug\net5.0\VOCABFINAL.runtimeconfig.json
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\bin\Debug\net5.0\VOCABFINAL.runtimeconfig.dev.json
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\bin\Debug\net5.0\VOCABFINAL.dll
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\bin\Debug\net5.0\ref\VOCABFINAL.dll
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\bin\Debug\net5.0\VOCABFINAL.pdb
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\VOCABFINAL.csproj.AssemblyReference.cache
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\VOCABFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\VOCABFINAL.AssemblyInfoInputs.cache
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\VOCABFINAL.AssemblyInfo.cs
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\VOCABFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\VOCABFINAL.dll
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\ref\VOCABFINAL.dll
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\VOCABFINAL.pdb
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\obj\Debug\net5.0\VOCABFINAL.genruntimeconfig.cache
+C:\Users\Omen\source\repos\VOCABFINAL\VOCABFINAL\bin\Debug\net5.0\Xamarin.Essentials.dll
