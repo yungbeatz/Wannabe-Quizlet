@@ -4,6 +4,44 @@ Coded by @[Igor645](https://github.com/Igor645) @[Ukiyo12](https://github.com/Uk
 
 ## Some Code Preview:
 ```cs
+using System;
+using System.IO;
+using System.Collections;
+
+namespace LA1300
+{
+
+
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList Firstword = new ArrayList();
+            ArrayList Secondword = new ArrayList();
+
+            bool QueLoopForAdd = true;
+            bool WordDeclareLoop = true;
+            bool QueLoopForOrder = true;
+            string Voci = "";
+            string outPath = @"..\..\..\..\savedwords.txt";
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine(@"
+ __          __                     _             ____        _     _      _   
+ \ \        / /                    | |           / __ \      (_)   | |    | |  
+  \ \  /\  / /_ _ _ __  _ __   __ _| |__   ___  | |  | |_   _ _ ___| | ___| |_ 
+   \ \/  \/ / _` | '_ \| '_ \ / _` | '_ \ / _ \ | |  | | | | | |_  / |/ _ \ __|
+    \  /\  / (_| | | | | | | | (_| | |_) |  __/ | |__| | |_| | |/ /| |  __/ |_ 
+     \/  \/ \__,_|_| |_|_| |_|\__,_|_.__/ \___|  \___\_\\__,_|_/___|_|\___|\__|
+                                                                                
+                                                                               
+");
+
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.WriteLine("Made by: Ilona Zinge / Nina Wösten / Igor Martic / Dijar Fazliu" + Environment.NewLine);
+            Console.ForegroundColor = ConsoleColor.White;
+
             while (WordDeclareLoop)
             {
                 Console.WriteLine("Geben Sie Ihr Voci ein: [Deutsch]");
